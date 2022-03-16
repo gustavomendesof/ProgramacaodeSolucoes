@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647390236 source:c:\users\12922112197\documents\aula-um\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1647389752 source:c:\users\12922112197\documents\aula-um\src\condicionalcomposta.cpp
+	"CondicionalComposta.h"
+
+1647389752 c:\users\12922112197\documents\aula-um\include\condicionalcomposta.h
+

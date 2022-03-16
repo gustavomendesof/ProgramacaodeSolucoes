@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647392476 source:c:\users\12922112197\documents\projetobooleano\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
