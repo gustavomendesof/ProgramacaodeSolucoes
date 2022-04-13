@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649803831 source:c:\users\12922112197\desktop\12-04\funcaosemretorno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
